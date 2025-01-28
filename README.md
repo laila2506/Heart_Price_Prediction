@@ -1,7 +1,3 @@
-Here’s the updated text with bold headings:  
-
----
-
 **Heart Disease Prediction using Logistic Regression**  
 
 **Overview**  
