@@ -1,4 +1,4 @@
-Heart Disease Prediction using Logistic Regression
+*Heart Disease Prediction using Logistic Regression*
 
 Overview
 This project predicts the likelihood of heart disease based on patient data using a Logistic Regression model. It analyzes 303 samples with 13 health-related features, such as age, cholesterol levels, and exercise-induced angina, to classify patients as healthy or at risk.
